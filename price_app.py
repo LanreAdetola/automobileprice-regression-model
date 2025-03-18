@@ -7,7 +7,7 @@ API_URL = st.secrets["azure"]["API_URL"]
 # ✅ Replace with your Azure ML API key
 API_KEY = st.secrets["azure"]["API_KEY"]
 
-st.title("Car Price Prediction")
+st.title("Lanry's Car Price Prediction")
 st.write("Enter car details to predict the price")
 
 # Input fields
