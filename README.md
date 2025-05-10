@@ -89,10 +89,3 @@ streamlit run app.py
 API keys are stored using Streamlit's built-in secrets management to avoid exposing sensitive data in your codebase.
 
 ---
-
-## 📬 Contact
-
-Made by **Lanry** – \[Your GitHub Profile or Email Here]
-Feel free to contribute or reach out with suggestions!
-
----
